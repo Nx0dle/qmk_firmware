@@ -1,4 +1,4 @@
-/* Copyright 2023 Przemysław Paciorek (Nx0dle) <ramenkeebs@proton.me>
+/* Copyright 2024 Przemysław Paciorek (Nx0dle) <ramenkeebs@proton.me>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
