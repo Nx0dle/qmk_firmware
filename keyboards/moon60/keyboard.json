@@ -21,8 +21,8 @@
     "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x3210",
-        "vid": "0xFEED"
+        "pid": "0x3211",
+        "vid": "0x0002"
     },
     "split": {
         "enabled": true,
